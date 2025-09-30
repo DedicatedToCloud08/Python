@@ -12,3 +12,12 @@ A simple Python script (`hello.py`) that:
 1. Clone the repo:
    git clone https://github.com/DedicatedToCloud08/Python.git
    cd Python
+
+
+## Day 2 – Variables, Data Types, and Basic Operations
+
+- Learned about Python data types (int, float, str, bool)
+- Practiced arithmetic, string manipulation, and boolean logic
+- Wrote a script (`day2_variables.py`) that builds a profile summary using inputs
+
+
