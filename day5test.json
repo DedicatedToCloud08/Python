@@ -1,0 +1,14 @@
+{
+    "web-server-1": {
+        "type": "EC2",
+        "status": "stopped"
+    },
+    "db-server-1": {
+        "type": "RDS",
+        "status": "stopped"
+    },
+    "cache-1": {
+        "type": "Redis",
+        "status": "running"
+    }
+}
